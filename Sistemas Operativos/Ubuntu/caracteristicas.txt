@@ -1,0 +1,2 @@
+Ubuntu es un sistema operativo open source, el cual usamos en clase desde una virtual box, se puede crear usuario y superusuario, en la terminal se puede usar el comando apt install para instalaciones, o sudo apt install.
+Se puede usar el apt install cowsay para hablar con una vaca.
